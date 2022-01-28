@@ -1,8 +1,6 @@
 # NestedScrollableHost
 [ ![JitPack](https://img.shields.io/github/release/jd-alexander/likebutton.svg?label=jitpack) ](https://jitpack.io/#jd-alexander/likebutton)
-[![Build Status](https://travis-ci.org/jd-alexander/LikeButton.svg)](https://travis-ci.org/jd-alexander/LikeButton)
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-LikeButton-green.svg?style=true)](https://android-arsenal.com/details/1/3038)
+
 
 This is a java implementation of ViewPager2 wrapper class to enable nested scrolling in viewpager2 (which is disabled by default unlike ViewPager)
 
